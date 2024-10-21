@@ -1,6 +1,6 @@
 # Crossword Puzzle Solver
 
-![crossword](https://github.com/user-attachments/assets/736dfdaf-4713-4e4e-b1f0-1cc74b46abc1)
+<img src="https://github.com/user-attachments/assets/736dfdaf-4713-4e4e-b1f0-1cc74b46abc1" alt="crossword-puzzle" width="700" height="500" />
 
 This is our code for our AP CSA holiday-themed crossword puzzle solver.
 
