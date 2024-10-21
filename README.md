@@ -1,5 +1,7 @@
 # Crossword Puzzle Solver
 
+![crossword](https://github.com/user-attachments/assets/736dfdaf-4713-4e4e-b1f0-1cc74b46abc1)
+
 This is our code for our AP CSA holiday-themed crossword puzzle solver.
 
 The following is an explanation of each function:
